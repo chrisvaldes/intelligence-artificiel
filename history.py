@@ -175,3 +175,27 @@ runfile('C:/Users/YOUMBI VALDES/main.py', wdir='C:/Users/YOUMBI VALDES')
 
 ## ---(Tue Apr  1 10:39:03 2025)---
 runfile('C:/Users/YOUMBI VALDES/cardID.py', wdir='C:/Users/YOUMBI VALDES')
+
+## ---(Sat Jun 14 11:17:41 2025)---
+runfile('C:/Users/YOUMBI VALDES/.spyder-py3/OCR_DETECTIONFACE.py', wdir='C:/Users/YOUMBI VALDES/.spyder-py3')
+
+## ---(Sat Jun 14 20:44:43 2025)---
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/predict_piece_type.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/main1.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/predict_piece_type.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/main1.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/predict_piece_type.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/predict_piece_type.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+
+## ---(Tue Jun 17 06:56:12 2025)---
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+
+## ---(Tue Jun 17 15:43:34 2025)---
+runfile('C:/Users/YOUMBI VALDES/piece_classifier.py', wdir='C:/Users/YOUMBI VALDES')
+conda activate tfenv
+conda activate tfenv
+ls /data

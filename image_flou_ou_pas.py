@@ -52,7 +52,7 @@ app = FastAPI()
 # Configuration de Tesseract (à adapter selon ton OS)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-def detect_blur(image_path, threshold=12000):
+def detect_blur(image_path, threshold=9000):
     """Détecte si une image est floue en utilisant la variance du Laplacien."""
     image = cv2.imread(str(image_path), cv2.IMREAD_GRAYSCALE)
     if image is None:
